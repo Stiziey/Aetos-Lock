@@ -1,5 +1,5 @@
 # Aetos-Lock
-**AetosHub is a FREE, universal, multi-functional Roblox script with features for a wide range of popular Roblox games.**
+**Aetos Lock is a FREE, universal, multi-functional Roblox camlock with features for a wide range of popular Roblox games.**
 
 # Features:
 - Camlock
