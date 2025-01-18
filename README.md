@@ -4,10 +4,12 @@
 # Features:
 - Camlock
 - Camlock Smoothness
-- Lock Prediction
+- Camlock Prediction
 - Prediction Adjustments
 - Teamlock (Locks on teammates)
 - FOV Circle
+- FOV Circle Thicnkess Changer
+- FOV Circle Color Changer
 - Anti-lock.
 
 To leave suggestion, bugs, or improvements please join our community here: https://discord.gg/ubxa3E5A
