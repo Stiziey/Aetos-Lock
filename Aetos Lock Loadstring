@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Stiziey/Aetos-Lock/refs/heads/main/Aetos%20Lock%20%7C%20Beta%20Release"))()
