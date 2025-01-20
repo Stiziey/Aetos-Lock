@@ -1,6 +1,10 @@
 # Aetos-Lock
 **Aetos Lock is a FREE, universal, multi-functional Roblox camlock with features for a wide range of popular Roblox games.**
 
+# New Features:
+- Lock Notification
+- Mute Notification Toggle
+- Improved Anti-Lock
 # Features:
 - Camlock
 - Camlock Smoothness
